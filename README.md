@@ -9,8 +9,8 @@ The dataset for this project is created by scraping Sweden housing listing site 
 
 ### The steps involved in this project:
 
--- 1.Data Collection: Scrape thousands of housing market data points using BeautifulSoup and Selenium.
--- 2.Data Preparation: Clean, transform, and explore the data to uncover patterns in the housing market.
+* 1.Data Collection: Scrape thousands of housing market data points using BeautifulSoup and Selenium.
+* 2.Data Preparation: Clean, transform, and explore the data to uncover patterns in the housing market.
 -- 3.Feature Identification: Identify potential features that affect property values in Stockholm.
 -- 4.Visualization: Build an interactive dashboard in Tableau to gain insights into the housing market.
 -- 5.Model Development: Develop predictive models using ML algorithms to estimate property values.
